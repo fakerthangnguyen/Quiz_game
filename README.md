@@ -6,7 +6,7 @@ This is preview : ![image](https://github.com/fakerthangnguyen/Quiz_game/assets/
 ![image](https://github.com/fakerthangnguyen/Quiz_game/assets/112310851/d833e2b9-d078-47e0-8fad-1999c11a5827)
 ![image](https://github.com/fakerthangnguyen/Quiz_game/assets/112310851/7844d65a-aaae-453c-8ea0-5ff2bd4d6b4d)
 ![image](https://github.com/fakerthangnguyen/Quiz_game/assets/112310851/6d222b94-6cab-444b-920a-29120cdec024)
-https://github.com/fakerthangnguyen/WeatherApp/assets/112310851/c928491e-d1fd-455d-8b97-c2ca06aeffc1
+![image](https://github.com/fakerthangnguyen/Quiz_game/assets/112310851/81526d12-929d-4b8b-ba39-a057d3be47d7)
 
 
 
